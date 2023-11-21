@@ -14,13 +14,13 @@ This repository contains a comprehensive analysis of the cricketing performance 
 ## Contents
 
 - **Data:** Includes the dataset used for analysis (`Virat Kohli Centuries.csv`).
-- **Code:** Jupyter Notebook (`Virat_Kohli_Analysis.ipynb`) containing the Python code for the analysis.
+- **Code:** Jupyter Notebook (`Virat_Kohli_Centuries_Analysis.ipynb`) containing the Python code for the analysis.
 - **Visuals:** Images or plots generated during the analysis.
 - **Summary:** A concise summary of key findings and insights.
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/yourusername/virat-kohli-analysis.git`
-2. Open and run the Jupyter Notebook (`Virat_Kohli_Analysis.ipynb`) using a tool like Jupyter Lab or Google Colab.
+1. Clone the repository: `git clone https://github.com/gautaammm/virat-kohli-centuries_analysis.git`
+2. Open and run the Jupyter Notebook (`Virat_Kohli_Centuries_Analysis.ipynb`) using a tool like Jupyter Lab or Google Colab.
 
 Feel free to explore, contribute, or use this analysis as a reference for cricket enthusiasts, data analysts, or sports researchers.
